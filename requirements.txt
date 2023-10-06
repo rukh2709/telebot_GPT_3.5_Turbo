@@ -1,0 +1,3 @@
+python-dotenv  #This library is used to hide some secret credentials.We will keep secret api key in .env file using this package
+aiogram
+openai
