@@ -1,3 +1,4 @@
-python-dotenv  #This library is used to hide some secret credentials.We will keep secret api key in .env file using this package
-aiogram
+python-dotenv  # This package is used to organize secret credentials.We will keep secret api key in .env file using this package
+aiogram  # aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python 3.8 using asyncio and aiohttp.
+# aiogram is a python package with the help of which we will be able to connect with telegram app
 openai
