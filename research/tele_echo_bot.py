@@ -26,7 +26,7 @@ async def command_start_handler(message: types.Message):
 @dp.message_handler()
 async def echo(message: types.Message):
     """
-    This will retrun echo
+    This will return echo
     """
     await message.answer(message.text)
 
